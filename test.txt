@@ -1,0 +1,68 @@
+<table class="table">
+                        <thead>
+                            <tr>
+                                <th>
+                                    <img src="300x300.jpg" alt="">
+                                </th>
+                                <th>
+                                    <img src="300x300.jpg" alt="">
+                                </th>
+                                <th>
+                                    <img src="300x300.jpg" alt="">
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <p>I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I’m a great place for you to tell a story and let your users know a little more about you.</P>
+                                </td>
+                                <td>
+                                    <p>I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I’m a great place for you to tell a story and let your users know a little more about you.</P>
+                                </td>
+                                <td>
+                                    <p>I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I’m a great place for you to tell a story and let your users know a little more about you.</P>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <button type="button" class="btn btn-primary btn-sm">Read More</button>
+                                </td>
+                                <td>
+                                    <button type="button" class="btn btn-primary btn-sm">Read More</button>
+                                </td>
+                                <td>
+                                    <button type="button" class="btn btn-primary btn-sm">Read More</button>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+
+                    <table class="table">
+                            <thead>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td><img src="300x400.jpg" alt="ex" ></td>
+                                    <td><img src="300x400.jpg" alt="ex" ></td>
+                                    <td><img src="300x400.jpg" alt="ex" ></td>
+                                </tr>
+                                <tr>
+                                    <td><h4>Bhayangkara Residence</h4></td>
+                                    <td><h4>Royal Zaitun</h4></td>
+                                    <td><h4>Zam Zam Flamboyan</h4></td>
+                                    
+                                </tr>
+                                <tr>
+                                    <td><p>I'm a paragraph. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I’m a great place for you to tell a story and let your users know a little more about you.</P></td>
+                                    <td><p>I'm a paragraph. Click here to add your own text and edit me.  Click here to add your own text and edit me.It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I’m a great place for you to tell a story and let your users know a little more about you.</P></td>
+                                    <td><p>I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I’m a great place for you to tell a story and let your users know a little more about you.</P></td>
+                                </tr>
+                                <tr>
+                                    <td><a href="#" class="btn btn-info" role="button">Read More</a></td>
+                                    <td><a href="#" class="btn btn-info" role="button">Read More</a></td>
+                                    <td><a href="#" class="btn btn-info" role="button">Read More</a></td>
+                                </tr>
+                            </tbody>    
+                        <table>
