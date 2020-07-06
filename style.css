@@ -172,9 +172,142 @@ h4 {
     background-color: #1a1a1a;
     font-family: 'Roboto', sans-serif;
     font-size: 13px;
+    padding-bottom: 25px;
 }
 
 #footer h5{
     margin-top:30px;
     color: #ff1a1a;
+}
+
+#sejarah-singkat p, ul, ol{
+    color:#737373;
+    margin-bottom: 25px;
+}
+
+#sejarah-singkat h2{
+    margin-top:100px;
+    margin-bottom: 50px;
+}
+
+#sejarah-singkat h4{
+    margin-top:25px;
+    margin-bottom: 25px;
+}
+
+#visi-misi{
+    margin-top: 50px;
+    margin-bottom: 0;
+}
+
+#visi-misi p, #visi-misi li{
+    color:#cccccc;
+}
+
+.visi-header h4, .misi-header h4{
+    margin-top: 40px;
+    color:#fff;
+}
+
+.visi-isi{
+    margin-bottom: 378px;
+}
+
+.footer-about{
+    margin: 0;
+    border-radius:0;
+    padding-bottom: 25px;
+}
+
+#footer-about{
+    background-color: #1a1a1a;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+}
+
+#footer-about h5{
+    margin-top:30px;
+    color: #ff1a1a;
+}
+
+#budaya-kerja h2{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+#budaya-kerja img{
+    margin-bottom: 50px;
+}
+
+#isi-budaya-kerja h4{
+    margin-top: 50px;
+}
+
+#isi-budaya-kerja p, #isi-budaya-kerja li{
+    color:#737373;
+}
+
+/*Projects Section*/
+#header-section{
+    width:100%;
+	z-index:-1;
+}
+
+.header_container{
+    position: relative;
+    text-align: center;
+    color: #ff1a1a;
+    background-color: black;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 32px;
+    padding-bottom: 5px;
+    letter-spacing: 2px;
+}
+
+.header_image{
+    padding:0;
+    z-index:0;
+    overflow:hidden;
+    background-position: center top;
+}
+
+#header-section img{
+    width:100%;
+    height: 120px;
+	background-position:center center;
+    background-size:cover;
+    z-index:0;
+    opacity: 0.5;
+}
+
+
+/*Project Section*/
+.gallery-photo{
+    margin-top: 50px;
+    background-color: #DC143C;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.gallery-photo img{
+    margin-top: 10px;
+}
+
+#test-section img{
+    opacity: 0.2;
+}
+
+.test{
+    background-color:black;
+}
+
+.test_logo{
+    margin-top:0;
+    margin-bottom: 0;
 }

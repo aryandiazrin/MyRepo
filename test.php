@@ -24,92 +24,30 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="#LRP_Website">Logo</a>
+                    <a href="#" class="pull-left"><img class ="test_logo"src="logo.jpg"></a> 
                 </div>
                 <div class="collapse navbar-collapse" id="myNavbar">
                     <ul class="nav navbar-nav navbar-right">
                         <li><a href="index.php">Home</a></li>
-                        <li><a href="project.php">Projects</a></li>
+                        <li><a href="#">Projects</a></li>
                         <li><a href="aboutus.php">About Us</a></li>
-                        <li><a href="#">Budaya Kerja</a></li>
+                        <li><a href="budaya_kerja.php">Budaya Kerja</a></li>
                     </ul>
                 </div>
             </div>
         </nav>
-        
-        <!-- Container (Budaya Kerja Section) -->
-        <div id="budaya-kerja">
-            <div class="container">
-                <div class="text-center">
-                    <h2>Budaya Kerja PT. Lombok Royal Properti</h2>
-                </div>
-                <div class="foto-kantor">
-                    <img src="lrp_header.jpg" alt="foto depan kantor" style="width:100%;">
-                </div>
-                <div class="penjelasa"></div>
-            </div>
-        </div>
 
-        <div class="container-fluid batas_pemisah">
-            <div class="row">
-                <div class="col-sm-12" style="background-color:#b30000; height: 1px;"></div>
-            </div>
-        </div>
-
-        <div id="isi-budaya-kerja">
-            <div class="container">
-                <div class="text-left">
-                    <h4>Budaya Kerja</h4>
-                </div>
-                <div class="penjelasan">
-                    <p>Sebagai perusahaan yang terus berkembang, dalam rangka membangun kualitas pelayanan, kualitas SDM, dan kualitas mutu, PT. Lombok Royal Property menjalankan sebuah budaya kerja yang menjadi dasar bagi setiap elemen di dalam perusahaan untuk melaksanakan aktivitasnya sehari-hari demi penyempurnaan pelayanan kepada pelanggan dan pendalaman karakter positif bagi individu-individu di dalam lingkup perusahaan.</p>
-               
-                    <p>Dasar-dasar tersebut terdiri dari 9 (Sembilan) Nilai Dasar yang terangkum dalam 8 (Delapan) Perilaku Utama dan  4 (Empat) Nilai Dasar.</p>
-                   
-                    <p>Budaya Kerja PT. Lombok Royal Property adalah TOSS!  Dan 4 (Empat) Nilai Dasar tersebut adalah sebagai berikut:</p>
-                    
-                    <ol>
-                        <li>T : Team Work</li>
-                        <li>O : On Target</li>
-                        <li>S : Strength</li>
-                        <li>S : Satisfaction</li>
-                    </ol>
-
-                    <p>Masing-masing dari 4 (Empat) Nilai Dasar tersebut terdiri dari 2 (Dua) buah perilaku utama yang disebut 8 (Delapan) Perilaku Utama, yaitu:</p>
-                
-                    <ul>
-                        <li>Team Work
-                            <ol>
-                                <li>Berpikir terbuka dan integritas tinggi</li>
-                                <li>Saling Percaya dan Menghargai</li>
-                            </ol>
-                        </li>
-                        <li>On Target
-                            <ol>
-                                <li>Bekerja Sesuai Budget</li>
-                                <li>Optimalisasi Hasil</li>
-                            </ol>
-                        </li>
-                        <li>Strength
-                            <ol>
-                                <li>Memiliki kekuatan fisik untuk terus bekerja</li>
-                                <li>Menyiapkan kekuatan mental menghadapi  tantangan</li>
-                            </ol>
-                        </li>
-                        <li>Satisfaction
-                            <ol>
-                                <li>Pemberian pelayanan optimal</li>
-                                <li>Mengedepankan perhatian komitmen dan mutu</li>
-                            </ol>
-                        </li>
-                    </ul>
-                </div>
+        <!-- Container (header Section) -->
+        <div id="test-section">
+            <div class="test">
+                <img class="test_image" src="foto kantor.jpg" alt="header image">
+                <div class="centered">PROJECTS</div>
             </div>
         </div>
 
         <!-- Container (Contact Section) -->
         <div id="footer">
-            <div class="container-fluid bg-grey">
+            <div class="container-fluid">
                 <div class="row">
                     <div class="col-sm-4">
                         <h5>Kontak Kami</h5>
@@ -138,6 +76,8 @@
                 </div>
             </div>      
         </div>
+
+        
         
         <script>
             $('#myCarousel').carousel({
