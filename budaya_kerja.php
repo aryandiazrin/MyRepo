@@ -32,6 +32,7 @@
                         <li><a href="project.php">Projects</a></li>
                         <li><a href="aboutus.php">About Us</a></li>
                         <li><a href="#">Budaya Kerja</a></li>
+                        <li><a href="user_page.php">User</a></li>
                     </ul>
                 </div>
             </div>
@@ -44,7 +45,7 @@
                     <h2>Budaya Kerja PT. Lombok Royal Properti</h2>
                 </div>
                 <div class="foto-kantor">
-                    <img src="lrp_header.jpg" alt="foto depan kantor" style="width:100%;">
+                    <img src="img/lrp_header.jpg" alt="foto depan kantor" style="width:100%;">
                 </div>
                 <div class="penjelasa"></div>
             </div>

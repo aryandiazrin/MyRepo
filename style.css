@@ -204,13 +204,17 @@ h4 {
     color:#cccccc;
 }
 
+#visi-misi h4{
+    margin-bottom: 50px;
+}
+
 .visi-header h4, .misi-header h4{
     margin-top: 40px;
     color:#fff;
 }
 
 .visi-isi{
-    margin-bottom: 378px;
+    margin-bottom: 443px;
 }
 
 .footer-about{
@@ -286,13 +290,16 @@ h4 {
     opacity: 0.5;
 }
 
-
 /*Project Section*/
 .gallery-photo{
     margin-top: 50px;
     background-color: #DC143C;
     padding-top: 25px;
     padding-bottom: 25px;
+}
+
+.gallery-header h4{
+    margin-bottom: 50px;
 }
 
 .gallery-photo img{
@@ -310,4 +317,35 @@ h4 {
 .test_logo{
     margin-top:0;
     margin-bottom: 0;
+}
+
+/*Login Page*/
+.form-container{
+    border:1px solid #DC143C;
+    padding: 50px 60px;
+    margin-top: 20vh;
+}
+
+/*User Page*/
+
+.fitur-user a{
+    margin-top: 100px;
+}
+
+#user-profile a{
+    margin-left: 25%;
+    margin-right: 50%;
+}
+
+.fitur-user .btn-info{
+    background-color: #800033;
+    border-color:  #fff;
+    margin-left: 25%;
+    margin-right: 50%;
+}
+
+.fitur-user .btn-info:hover{
+    color: #800033 !important;
+    background-color: #fff !important;
+    border-color:  #800033;
 }

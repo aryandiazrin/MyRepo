@@ -32,6 +32,7 @@
                         <li><a href="project.php">Projects</a></li>
                         <li><a href="aboutus.php">About Us</a></li>
                         <li><a href="budaya_kerja.php">Budaya Kerja</a></li>
+                        <li><a href="user_page.php">User</a></li>
                     </ul>
                 </div>
             </div>
@@ -50,17 +51,17 @@
                 <!-- Wrapper for slides -->
                 <div class="carousel-inner">
                     <div class="item active">
-                        <img src="madinah_5.jpg" alt="Madinah 5" style="width:100%">
+                        <img src="img/madinah_5.jpg" alt="Madinah 5" style="width:100%">
                         <div class="carousel-caption">
                         </div>
                     </div>
                     <div class="item">
-                        <img src="MADINAH_T2_1.jpg" alt="Madinah T2_1" style="width:100%">
+                        <img src="img/MADINAH_T2_1.jpg" alt="Madinah T2_1" style="width:100%">
                         <div class="carousel-caption">
                         </div>
                     </div>
                     <div class="item">
-                        <img src="MADINAH_T2_2.jpg" alt="Madinah T2_2" style="width:100%">
+                        <img src="img/MADINAH_T2_2.jpg" alt="Madinah T2_2" style="width:100%">
                         <div class="carousel-caption">
                         </div>
                     </div>
@@ -76,7 +77,7 @@
                     <div class="col-sm-1"></div>
                     <div class="col-sm-10">
                         <div class="col-sm-4" >
-                            <img src="300x400.jpg" alt="ex" >
+                            <img src="img/300x400.jpg" alt="ex" >
                             <h4>Zam Zam Flamboyan</h4>
                             <p>I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I’m a great place for you to tell a story and let your users know a little more about you.</P>
                             <div class="col-sm-12">
@@ -84,7 +85,7 @@
                             </div>
                         </div>
                         <div class="col-sm-4" >                    
-                            <img src="300x400.jpg" alt="ex" >
+                            <img src="img/300x400.jpg" alt="ex" >
                             <h4>Bhayangkara Residence</h4></td>
                             <p>I'm a paragraph. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I’m a great place for you to tell a story and let your users know a little more about you.</P>
                             <div class="col-sm-12">
@@ -92,7 +93,7 @@
                             </div>                       
                         </div>
                         <div class="col-sm-4" >
-                            <img src="300x400.jpg" alt="ex" >
+                            <img src="img/300x400.jpg" alt="ex" >
                             <h4>Royal Zaitun</h4>
                             <p>Click here to add your own text and edit me.It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I’m a great place for you to tell a story and let your users know a little more about you.</P>
                             <a href="#" class="btn btn-info" role="button">Read More</a>
@@ -114,7 +115,7 @@
                     <div class="col-sm-6">
                         <div class="row">
                             <div class="col-sm-4">
-                                <img src="300x400.jpg" alt="example" style="width:100%">
+                                <img src="img/300x400.jpg" alt="example" style="width:100%">
                             </div>
                             <div class="col-sm-8">
                                 <h4>AKSDOADOS</h4>
@@ -137,7 +138,7 @@
                                 <p>'m a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I’m a great place for you to tell a story and let your users know a little more about you.</p>
                             </div>
                             <div class="col-sm-4">
-                                <img src="300x400.jpg" alt="example" style="width:100%">
+                                <img src="img/300x400.jpg" alt="example" style="width:100%">
                             </div>
                         </div>
                     </div>    

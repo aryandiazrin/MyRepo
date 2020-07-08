@@ -44,7 +44,7 @@
                     <h2>Sejarah Singkat Dan Visi Misi</h2>
                 </div>
                 <div class="foto-kantor">
-                    <img src="foto kantor.jpg" alt="foto depan kantor" style="width:100%;">
+                    <img src="img/foto kantor.jpg" alt="foto depan kantor" style="width:100%;">
                 </div>
                 <div class="profil">
                     <h4>Sejarah dan Profil Singkat</h4>
@@ -103,7 +103,7 @@
                     <h4>Visi & Misi</h4>
                 </div>
                 <div class="row">
-                    <div class="col-sm-6" style="background-color:#b30000; padding-bottom:40px ">
+                    <div class="col-sm-6" style="background-color:#b30000;">
                         <div class="col-sm-2"></div>
                         <div class="col-sm-10">
                             <div class="text-center visi-header">

@@ -32,7 +32,8 @@
                         <li><a href="#">Projects</a></li>
                         <li><a href="aboutus.php">About Us</a></li>
                         <li><a href="budaya_kerja.php">Budaya Kerja</a></li>
-                    </ul>
+                        <li><a href="user_page.php">User</a></li>
+\                    </ul>
                 </div>
             </div>
         </nav>
@@ -40,20 +41,20 @@
         <!-- Container (header Section) -->
         <div id="header-section">
             <div class="header_container">
-                <img class="header_image" src="header.jpg" alt="header image">
+                <img class="header_image" src="img/header.jpg" alt="header image">
                 <div class="centered">PROJECTS</div>
             </div>
         </div>
 
         <!-- Container (galery Section) -->
-        <div id="gallery-section">
+        <div id="gallery-section-royal-madinah">
             <div class="container gallery-header">
                 <div class="gallery col-lg-12 col-md-12 col-sm-12 col-xs-12">
                     <h2 class="gallery-title">Gallery</h2>
                 </div>
 
                 <div class="col-sm-4">
-                    <img src="300x300.jpg" alt="galery project">
+                    <img src="img/300x300.jpg" alt="galery project">
                 </div>
                 <div class="col-sm-8">
                     <h4>Royal Madinah</h4>
@@ -66,41 +67,128 @@
                 <div class="row">
                 
                     <div class="gallery_product col-sm-2 col-xs-6">
-                        <img src="200x200.jpg" class="img-ex">
+                        <a href="200x200.jpg" data-title="First Image" data-lightbox="Royal Madinah">
+                            <img src="200x200.jpg" class="img-thumbnail img-ex">
+                        </a>
                     </div>
                     <div class="gallery_product col-sm-2 col-xs-6">
-                        <img src="200x200.jpg" class="img-ex">
+                        <a href="200x200.jpg" data-title="First Image" data-lightbox="Royal Madinah">
+                            <img src="200x200.jpg" class="img-thumbnail img-ex">
+                        </a>                    </div>
+                    <div class="gallery_product col-sm-2 col-xs-6">
+                        <a href="200x200.jpg" data-title="First Image" data-lightbox="Royal Madinah">
+                            <img src="200x200.jpg" class="img-thumbnail img-ex">
+                        </a>                    </div>
+                    <div class="gallery_product col-sm-2 col-xs-6">
+                        <a href="200x200.jpg" data-title="First Image" data-lightbox="Royal Madinah">
+                            <img src="200x200.jpg" class="img-thumbnail img-ex">
+                        </a>                    </div>
+                    <div class="gallery_product col-sm-2 col-xs-6">
+                        <a href="200x200.jpg" data-title="First Image" data-lightbox="Royal Madinah">
+                            <img src="200x200.jpg" class="img-thumbnail img-ex">
+                        </a>                    </div>
+                    <div class="gallery_product col-sm-2 col-xs-6">
+                        <a href="200x200.jpg" data-title="First Image" data-lightbox="Royal Madinah">
+                            <img src="200x200.jpg" class="img-thumbnail img-ex">
+                        </a>                    </div>
+                    <div class="gallery_product col-sm-2 col-xs-6">
+                        <a href="200x200.jpg" data-title="First Image" data-lightbox="Royal Madinah">
+                            <img src="200x200.jpg" class="img-thumbnail img-ex">
+                        </a>                    </div>
+                    <div class="gallery_product col-sm-2 col-xs-6">
+                        <a href="200x200.jpg" data-title="First Image" data-lightbox="Royal Madinah">
+                            <img src="200x200.jpg" class="img-thumbnail img-ex">
+                        </a>                    </div>
+                    <div class="gallery_product col-sm-2 col-xs-6">
+                        <a href="200x200.jpg" data-title="First Image" data-lightbox="Royal Madinah">
+                            <img src="200x200.jpg" class="img-thumbnail img-ex">
+                        </a>                    </div>
+                    <div class="gallery_product col-sm-2 col-xs-6">
+                        <a href="200x200.jpg" data-title="First Image" data-lightbox="Royal Madinah">
+                            <img src="200x200.jpg" class="img-thumbnail img-ex">
+                        </a>                    </div>
+                    <div class="gallery_product col-sm-2 col-xs-6">
+                        <a href="200x200.jpg" data-title="First Image" data-lightbox="Royal Madinah">
+                            <img src="200x200.jpg" class="img-thumbnail img-ex">
+                        </a>                    </div>
+                    <div class="gallery_product col-sm-2 col-xs-6">
+                        <a href="200x200.jpg" data-title="First Image" data-lightbox="Royal Madinah">
+                            <img src="200x200.jpg" class="img-thumbnail img-ex">
+                        </a>                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <!-- Container (galery Section) -->
+        <div id="gallery-section-Bhayangkara-Residence">
+            <div class="container gallery-header">
+                <div class="gallery col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <h2 class="gallery-title">Gallery</h2>
+                </div>
+
+                <div class="col-sm-4">
+                    <img src="300x300.jpg" alt="galery project">
+                </div>
+                <div class="col-sm-8">
+                    <h4>Bhayangkara Residence</h4>
+                    <p>I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I’m a great place for you to tell a story and let your users know a little more about you.</p>
+                    <p>I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. </p>
+                </div>
+            </div>
+
+            <div class="container-fluid gallery-photo">
+                <div class="row">
+                
+                    <div class="gallery_product col-sm-2 col-xs-6">
+                        <a href="200x200.jpg" data-title="First Image" data-lightbox="Royal Madinah">
+                            <img src="200x200.jpg" class="img-thumbnail img-ex">
+                        </a>
                     </div>
                     <div class="gallery_product col-sm-2 col-xs-6">
-                        <img src="200x200.jpg" class="img-ex">
-                    </div>
+                        <a href="200x200.jpg" data-title="First Image" data-lightbox="Royal Madinah">
+                            <img src="200x200.jpg" class="img-thumbnail img-ex">
+                        </a>                    </div>
                     <div class="gallery_product col-sm-2 col-xs-6">
-                        <img src="200x200.jpg" class="img-ex">
-                    </div>
+                        <a href="200x200.jpg" data-title="First Image" data-lightbox="Royal Madinah">
+                            <img src="200x200.jpg" class="img-thumbnail img-ex">
+                        </a>                    </div>
                     <div class="gallery_product col-sm-2 col-xs-6">
-                        <img src="200x200.jpg" class="img-ex">
-                    </div>
+                        <a href="200x200.jpg" data-title="First Image" data-lightbox="Royal Madinah">
+                            <img src="200x200.jpg" class="img-thumbnail img-ex">
+                        </a>                    </div>
                     <div class="gallery_product col-sm-2 col-xs-6">
-                        <img src="200x200.jpg" class="img-ex">
-                    </div>
+                        <a href="200x200.jpg" data-title="First Image" data-lightbox="Royal Madinah">
+                            <img src="200x200.jpg" class="img-thumbnail img-ex">
+                        </a>                    </div>
                     <div class="gallery_product col-sm-2 col-xs-6">
-                        <img src="200x200.jpg" class="img-ex">
-                    </div>
+                        <a href="200x200.jpg" data-title="First Image" data-lightbox="Royal Madinah">
+                            <img src="200x200.jpg" class="img-thumbnail img-ex">
+                        </a>                    </div>
                     <div class="gallery_product col-sm-2 col-xs-6">
-                        <img src="200x200.jpg" class="img-ex">
-                    </div>
+                        <a href="200x200.jpg" data-title="First Image" data-lightbox="Royal Madinah">
+                            <img src="200x200.jpg" class="img-thumbnail img-ex">
+                        </a>                    </div>
                     <div class="gallery_product col-sm-2 col-xs-6">
-                        <img src="200x200.jpg" class="img-ex">
-                    </div>
+                        <a href="200x200.jpg" data-title="First Image" data-lightbox="Royal Madinah">
+                            <img src="200x200.jpg" class="img-thumbnail img-ex">
+                        </a>                    </div>
                     <div class="gallery_product col-sm-2 col-xs-6">
-                        <img src="200x200.jpg" class="img-ex">
-                    </div>
+                        <a href="200x200.jpg" data-title="First Image" data-lightbox="Royal Madinah">
+                            <img src="200x200.jpg" class="img-thumbnail img-ex">
+                        </a>                    </div>
                     <div class="gallery_product col-sm-2 col-xs-6">
-                        <img src="200x200.jpg" class="img-ex">
-                    </div>
+                        <a href="200x200.jpg" data-title="First Image" data-lightbox="Royal Madinah">
+                            <img src="200x200.jpg" class="img-thumbnail img-ex">
+                        </a>                    </div>
                     <div class="gallery_product col-sm-2 col-xs-6">
-                        <img src="200x200.jpg" class="img-ex">
-                    </div>
+                        <a href="200x200.jpg" data-title="First Image" data-lightbox="Royal Madinah">
+                            <img src="200x200.jpg" class="img-thumbnail img-ex">
+                        </a>                    </div>
+                    <div class="gallery_product col-sm-2 col-xs-6">
+                        <a href="200x200.jpg" data-title="First Image" data-lightbox="Royal Madinah">
+                            <img src="200x200.jpg" class="img-thumbnail img-ex">
+                        </a>                    </div>
 
                 </div>
             </div>
